@@ -206,8 +206,8 @@ This application is intended for educational and research purposes only. It is n
 
 ## 11. Author
 
-Shipra P  
-B.Tech Student with interests in Artificial Intelligence, Machine Learning, and Full Stack Development  
+Shipra Prashanth  
+B.E. Student with interests in Artificial Intelligence, Machine Learning, and Full Stack Development  
 
 ---
 
